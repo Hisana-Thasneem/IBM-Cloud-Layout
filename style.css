@@ -1,0 +1,47 @@
+@media (min-width: 992px){
+    .navbar li  {
+        margin-left : 1.5em;
+        margin-right : 1em;
+    }
+    .navbar li spacing{
+        margin-left : 6em;
+    }
+}
+@media (min-width: 576){
+
+    .content{
+        overflow-y: scroll;
+        height: 1000px;
+    } 
+   
+}
+h5{
+    color:gray;
+}
+#firstcolumn{
+    background-color:black;
+
+}
+
+#secondcolumn{
+    background-color:darkgray;
+    padding: 5px;
+    
+}
+.content{
+    overflow-y: scroll;
+    height: 800px;
+    padding: 2px;
+}
+.list-group-item{
+    background-color: transparent;
+    color:#d8dee8;
+}
+.row{
+    overflow-x: hidden;
+}
+.table{
+    padding: 5px;
+    background-color:grey;
+    
+}
